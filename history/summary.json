@@ -16,5 +16,81 @@
     "timeMonth": 662,
     "timeYear": 662,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "web.eynet.xyz",
+    "url": "https://web.eynet.xyz",
+    "icon": "https://favicons.githubusercontent.com/web.eynet.xyz",
+    "slug": "web-eynet-xyz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 971,
+    "timeDay": 971,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "web.eynet.xyz IPV6",
+    "url": "https://[2a06:a003:50b9:2:192:168:150:102]",
+    "icon": "https://favicons.githubusercontent.com/2a06:a003:50b9:2:192:168:150:102",
+    "slug": "web-eynet-xyz-ipv-6",
+    "status": "down",
+    "uptime": "12.88%",
+    "uptimeDay": "12.88%",
+    "uptimeWeek": "12.88%",
+    "uptimeMonth": "12.88%",
+    "uptimeYear": "12.88%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
+  },
+  {
+    "name": "mail.eynet.xyz",
+    "url": "https://mail.eynet.xyz",
+    "icon": "https://favicons.githubusercontent.com/mail.eynet.xyz",
+    "slug": "mail-eynet-xyz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1603,
+    "timeDay": 1603,
+    "timeWeek": 1603,
+    "timeMonth": 1603,
+    "timeYear": 1603,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "mail.eynet.xyz IPV6",
+    "url": "https://[2a0a:51c0:0:70::6]",
+    "icon": "https://favicons.githubusercontent.com/2a0a:51c0:0:70::6",
+    "slug": "mail-eynet-xyz-ipv-6",
+    "status": "down",
+    "uptime": "16.46%",
+    "uptimeDay": "16.46%",
+    "uptimeWeek": "16.46%",
+    "uptimeMonth": "16.46%",
+    "uptimeYear": "16.46%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
   }
 ]
