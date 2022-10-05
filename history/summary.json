@@ -4,19 +4,20 @@
     "url": "https://elyday.net",
     "icon": "https://icons.duckduckgo.com/ip3/elyday.net.ico",
     "slug": "elyday-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 897,
-    "timeWeek": 934,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 845,
+    "timeDay": 858,
+    "timeWeek": 920,
+    "timeMonth": 845,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2022-10-04": 1
+      "2022-10-05": 127,
+      "2022-10-04": 16
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://web.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/web.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 738,
-    "timeWeek": 728,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "90.10%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 744,
+    "timeDay": 744,
+    "timeWeek": 730,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-05": 127,
+      "2022-10-04": 16
     }
   },
   {
@@ -62,19 +64,20 @@
     "url": "https://docker.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/docker.eynet.xyz.ico",
     "slug": "docker-eynet-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 1230,
-    "timeWeek": 955,
-    "timeMonth": 810,
-    "timeYear": 810,
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 807,
+    "timeDay": 1002,
+    "timeWeek": 932,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-05": 127,
+      "2022-10-04": 16
     }
   }
 ]
