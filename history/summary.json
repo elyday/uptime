@@ -72,9 +72,9 @@
     "url": "https://docker.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/docker.eynet.xyz.ico",
     "slug": "docker-eynet-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
@@ -84,6 +84,7 @@
     "timeMonth": 643,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2022-11-18": 0,
       "2022-10-11": 59,
       "2022-10-05": 127,
       "2022-10-04": 16
