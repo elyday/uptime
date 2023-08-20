@@ -6,11 +6,9 @@ sites:
   - name: elyday.net
     url: https://elyday.net
   - name: web.eynet.xyz
-    url: https://web.eynet.xyz
+    url: https://web.hetz.server.eynet.xyz
   - name: mail.eynet.xyz
     url: https://mail.eynet.xyz
-  - name: docker.eynet.xyz
-    url: https://docker.eynet.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
