@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 690,
-    "timeDay": 684,
-    "timeWeek": 529,
-    "timeMonth": 518,
-    "timeYear": 684,
+    "uptimeYear": "99.98%",
+    "time": 689,
+    "timeDay": 526,
+    "timeWeek": 540,
+    "timeMonth": 513,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2022-10-11": 60,
-      "2022-10-05": 127
+      "2022-10-11": 60
     }
   },
   {
@@ -26,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
     "status": "up",
-    "uptime": "35.46%",
+    "uptime": "35.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.02%",
-    "time": 643,
-    "timeDay": 637,
-    "timeWeek": 507,
-    "timeMonth": 517,
-    "timeYear": 634,
+    "uptimeYear": "34.04%",
+    "time": 642,
+    "timeDay": 518,
+    "timeWeek": 516,
+    "timeMonth": 514,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2023-08-20": 564,
       "2023-08-19": 1440,
@@ -281,8 +280,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 167,
-      "2022-10-11": 60,
-      "2022-10-05": 127
+      "2022-10-11": 60
     }
   },
   {
@@ -297,10 +295,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 681,
-    "timeDay": 650,
-    "timeWeek": 509,
-    "timeMonth": 511,
-    "timeYear": 678,
+    "timeDay": 538,
+    "timeWeek": 525,
+    "timeMonth": 507,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2023-02-23": 19,
       "2023-02-22": 20,
