@@ -4,9 +4,9 @@
     "url": "https://elyday.net",
     "icon": "https://icons.duckduckgo.com/ip3/elyday.net.ico",
     "slug": "elyday-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 577,
     "timeMonth": 550,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "web.eynet.xyz",
     "url": "https://web.hetz.server.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "49.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.80%",
@@ -34,6 +36,7 @@
     "timeMonth": 607,
     "timeYear": 580,
     "dailyMinutesDown": {
+      "2024-01-16": 0,
       "2023-08-20": 564,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
