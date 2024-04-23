@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
     "status": "up",
-    "uptime": "58.13%",
+    "uptime": "58.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.30%",
+    "uptimeYear": "67.54%",
     "time": 577,
     "timeDay": 591,
     "timeWeek": 593,
@@ -162,9 +162,9 @@
     "url": "https://mail.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mail.eynet.xyz.ico",
     "slug": "mail-eynet-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,6 +174,7 @@
     "timeMonth": 540,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2023-10-12": 16
     }
   }
