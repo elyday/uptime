@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 583,
-    "timeDay": 492,
-    "timeWeek": 506,
-    "timeMonth": 517,
+    "time": 582,
+    "timeDay": 463,
+    "timeWeek": 508,
+    "timeMonth": 512,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2024-01-16": 28
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
     "status": "up",
-    "uptime": "60.59%",
+    "uptime": "60.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.16%",
+    "uptimeYear": "77.44%",
     "time": 561,
-    "timeDay": 423,
-    "timeWeek": 567,
-    "timeMonth": 520,
+    "timeDay": 495,
+    "timeWeek": 579,
+    "timeMonth": 517,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-01-16": 27,
@@ -117,8 +117,7 @@
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
-      "2023-06-01": 1440,
-      "2023-05-31": 1440
+      "2023-06-01": 1440
     }
   },
   {
@@ -133,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 449,
-    "timeWeek": 482,
-    "timeMonth": 507,
-    "timeYear": 535,
+    "timeDay": 541,
+    "timeWeek": 502,
+    "timeMonth": 505,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-10-12": 16
     }
