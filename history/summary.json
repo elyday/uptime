@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 539,
-    "timeDay": 703,
-    "timeWeek": 593,
-    "timeMonth": 569,
+    "timeDay": 542,
+    "timeWeek": 565,
+    "timeMonth": 572,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2024-01-16": 28
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-eynet-xyz",
     "status": "up",
-    "uptime": "69.75%",
+    "uptime": "69.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 566,
-    "timeDay": 647,
-    "timeWeek": 593,
+    "timeDay": 510,
+    "timeWeek": 568,
     "timeMonth": 574,
-    "timeYear": 572,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2024-01-16": 27
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 659,
-    "timeWeek": 561,
-    "timeMonth": 541,
+    "time": 538,
+    "timeDay": 527,
+    "timeWeek": 535,
+    "timeMonth": 545,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2024-07-21": 15
