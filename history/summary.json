@@ -40,18 +40,20 @@
     "url": "https://web.hetz.server.eynet.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/web.hetz.server.eynet.xyz.ico",
     "slug": "web-hetz-server-eynet-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 728,
-    "timeWeek": 631,
-    "timeMonth": 590,
-    "timeYear": 593,
-    "dailyMinutesDown": {}
+    "time": 592,
+    "timeDay": 637,
+    "timeWeek": 620,
+    "timeMonth": 588,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2025-04-13": 0
+    }
   },
   {
     "name": "mail.eynet.xyz",
