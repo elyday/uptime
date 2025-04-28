@@ -4,18 +4,20 @@
     "url": "https://elyday.net",
     "icon": "https://icons.duckduckgo.com/ip3/elyday.net.ico",
     "slug": "elyday-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 472,
-    "timeWeek": 468,
-    "timeMonth": 480,
+    "time": 532,
+    "timeDay": 382,
+    "timeWeek": 447,
+    "timeMonth": 476,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "elyday.dev",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 459,
-    "timeWeek": 477,
-    "timeMonth": 494,
-    "timeYear": 508,
+    "time": 512,
+    "timeDay": 689,
+    "timeWeek": 512,
+    "timeMonth": 502,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 597,
-    "timeDay": 535,
-    "timeWeek": 562,
-    "timeMonth": 594,
-    "timeYear": 597,
+    "time": 599,
+    "timeDay": 739,
+    "timeWeek": 587,
+    "timeMonth": 602,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-04-13": 18
     }
@@ -67,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 535,
-    "timeWeek": 560,
-    "timeMonth": 607,
-    "timeYear": 551,
+    "timeDay": 862,
+    "timeWeek": 606,
+    "timeMonth": 621,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2024-07-21": 15
     }
