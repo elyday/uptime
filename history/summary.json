@@ -4,19 +4,19 @@
     "url": "https://elyday.net",
     "icon": "https://icons.duckduckgo.com/ip3/elyday.net.ico",
     "slug": "elyday-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 382,
-    "timeWeek": 447,
-    "timeMonth": 476,
-    "timeYear": 533,
+    "timeDay": 389,
+    "timeWeek": 442,
+    "timeMonth": 473,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 7
     }
   },
   {
