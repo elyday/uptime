@@ -5,12 +5,24 @@ repo: uptime # The name of this repository
 sites:
   - name: elyday.net
     url: https://elyday.net
+    type: globalping
+    location: germany
   - name: elyday.dev
     url: https://elyday.dev
+    type: globalping
+    location: germany
   - name: web.hetz.server.eynet.xyz
     url: https://web.hetz.server.eynet.xyz
+    type: globalping
+    location: germany
   - name: mail.eynet.xyz
     url: https://mail.eynet.xyz
+    type: globalping
+    location: germany
+  - name: paste.elyday.net
+    url: https://paste.elyday.net
+    type: globalping
+    location: germany
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,6 +39,8 @@ status-website:
       href: /
     - title: Blog
       href: https://elyday.dev
+    - title: MyPaste
+      href: https://paste.elyday.net
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
