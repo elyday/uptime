@@ -6,23 +6,23 @@ sites:
   - name: elyday.net
     url: https://elyday.net
     type: globalping
-    location: germany
+    location: Berlin
   - name: elyday.dev
     url: https://elyday.dev
     type: globalping
-    location: germany
+    location: Berlin
   - name: web.hetz.server.eynet.xyz
     url: https://web.hetz.server.eynet.xyz
     type: globalping
-    location: germany
+    location: Berlin
   - name: mail.eynet.xyz
     url: https://mail.eynet.xyz
     type: globalping
-    location: germany
+    location: Berlin
   - name: paste.elyday.net
     url: https://paste.elyday.net
     type: globalping
-    location: germany
+    location: Berlin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
